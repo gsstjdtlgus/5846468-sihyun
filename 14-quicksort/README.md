@@ -1,2 +1,2 @@
 # 14-quicksort{Result Image}
-![](./출력결과.jpg)
+![](./출력결과.JPG)

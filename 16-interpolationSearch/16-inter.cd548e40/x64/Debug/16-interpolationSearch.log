@@ -1,0 +1,4 @@
+﻿  16-interpolationSearch.c
+C:\Users\user\Source\Repos\16-interpolationSearch\16-interpolationSearch.c(80,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Source\Repos\16-interpolationSearch\16-interpolationSearch.c(116,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  16-interpolationSearch.vcxproj -> C:\Users\user\Source\Repos\16-interpolationSearch\x64\Debug\16-interpolationSearch.exe
